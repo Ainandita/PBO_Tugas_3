@@ -135,7 +135,7 @@ namespace Interface
             c.kaki();
             c.Herbivora();
 
-            Console.WriteLine("Berat badan : " + b.beratBadan + "kg\n");
+            Console.WriteLine("Berat badan : " + c.beratBadan + "kg\n");
 
             Console.ReadKey();
         }
